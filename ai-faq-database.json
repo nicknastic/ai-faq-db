@@ -1,0 +1,410 @@
+{
+  "metadata": {
+    "title": "AI FAQ for Non-Technical Executives",
+    "description": "Frequently asked questions about AI for board members, CEOs, CFOs, COOs, CIOs, CHROs, and business leaders in traditional industries such as manufacturing, forestry, energy, construction, transportation, agriculture, healthcare, insurance, and financial services.",
+    "audience": "Non-technical executives and board members",
+    "last_updated": "2026-07-27",
+    "entry_count": 32
+  },
+  "entries": [
+    {
+      "id": "faq-001",
+      "section": "Understanding the AI Revolution",
+      "question": "Is AI just another technology trend?",
+      "answer": "No. AI is increasingly viewed as a general-purpose technology similar to electricity, computers, and the internet because it can affect nearly every function of an organization — not just IT.\n\nStanford's 2026 AI Index found that 88% of organizations now use AI in at least one business function, up from 78% a year earlier, and 78% of Fortune 500 companies have deployed AI at scale. Generative AI reached 53% population adoption in just three years — faster than the personal computer and faster than the internet.",
+      "key_takeaway": "AI is a general-purpose technology on the scale of electricity or the internet — not a passing trend.",
+      "tags": ["adoption", "general-purpose technology", "AI Index"],
+      "sources": [
+        {"source_org": "Stanford HAI", "source_title": "The 2026 AI Index Report", "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-002",
+      "section": "Understanding the AI Revolution",
+      "question": "How is the AI boom different from the Internet boom?",
+      "answer": "The internet connected people and information; AI reasons over information and increasingly performs work on behalf of users.\n\n- Internet era: connected people and information. AI era: augments and automates knowledge work.\n- Internet era: reduced communication costs. AI era: reduces cognitive labor costs.\n- Internet era: created digital channels. AI era: creates digital workers.\n- Internet era: required humans to use software. AI era: software increasingly acts autonomously through agents.\n- Internet era: enabled e-commerce. AI era: enables autonomous decision support and execution.\n\nAnother key difference is speed and capital intensity: generative AI reached majority population adoption in three years, and the top five US cloud providers alone have committed $660–690 billion of capital expenditure for 2026 — a build-out with no precedent in the dot-com era.",
+      "key_takeaway": "The internet connected information; AI acts on it — and the build-out is faster and far more capital-intensive.",
+      "tags": ["internet comparison", "adoption", "capex"],
+      "sources": [
+        {"source_org": "Stanford HAI", "source_title": "The 2026 AI Index Report", "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report", "source_tier": "primary"},
+        {"source_org": "Futurum Group", "source_title": "AI Capex 2026: The $690B Infrastructure Sprint", "source_url": "https://futurumgroup.com/insights/ai-capex-2026-the-690b-infrastructure-sprint/", "source_tier": "secondary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-003",
+      "section": "Understanding the AI Revolution",
+      "question": "Are we experiencing an AI bubble?",
+      "answer": "The honest answer is: partially yes, but with real underlying value.\n\nThere are clear signs of speculative investment. Goldman Sachs' baseline model implies $765 billion in annual AI capex in 2026, growing toward $1.6 trillion annually by 2031, and Moody's reported roughly $662 billion in signed-but-not-yet-commenced data center lease commitments sitting off hyperscaler balance sheets. Analysts calculate that hyperscalers would need $160–320 billion in new annual AI-attributable profit just to earn acceptable returns on this spending.\n\nOn the other side, JPMorgan argues the investment surge is durable and increasingly profitable, projecting $5.5 trillion in global AI capex through 2030. And unlike many dot-com companies, AI is already generating measurable value: Stanford estimates US consumer surplus from generative AI tools at $172 billion annually by early 2026, up from $112 billion a year earlier.\n\nThe likely outcome resembles the internet: many AI companies and some infrastructure bets will fail, but AI itself will become foundational.",
+      "key_takeaway": "Parts of the market are speculative, but real productivity value exists — expect a shakeout, not a wipeout.",
+      "tags": ["AI bubble", "investment", "capex", "risk"],
+      "sources": [
+        {"source_org": "Goldman Sachs", "source_title": "Tracking Trillions: The Assumptions Shaping the Scale of the AI Build-Out", "source_url": "https://www.goldmansachs.com/insights/articles/tracking-trillions-the-assumptions-shaping-scale-of-the-ai-build-out", "source_tier": "primary"},
+        {"source_org": "Fortune (JPMorgan Research)", "source_title": "JPMorgan says the $5.5 trillion AI capex explosion is profitable — for now", "source_url": "https://fortune.com/2026/06/25/what-bubble-jpmorgan-5-5-trillion-ai-capex-explosion-profitable-for-now/", "source_tier": "secondary"},
+        {"source_org": "Stanford HAI", "source_title": "The 2026 AI Index Report", "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-004",
+      "section": "Understanding the AI Revolution",
+      "question": "Is AI overhyped?",
+      "answer": "In the short term: yes. In the long term: probably underhyped.\n\nHistorically, technological revolutions follow a pattern of inflated expectations, disillusionment, and then sustainable value creation. Many organizations are overestimating 1-year impact while underestimating 10-year impact.\n\nThe data supports both halves of this statement: only 39% of organizations report EBIT impact from AI at the enterprise level (McKinsey), yet frontier model capability keeps compounding — the best models went from answering 8.8% of \"Humanity's Last Exam\" questions correctly in 2025 to over 50% by April 2026, a near-6x improvement in under 18 months.",
+      "key_takeaway": "Overestimated at 1 year, underestimated at 10 — plan for the decade, not the quarter.",
+      "tags": ["hype cycle", "capability", "EBIT impact"],
+      "sources": [
+        {"source_org": "McKinsey", "source_title": "The State of AI: Global survey", "source_url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai", "source_tier": "primary"},
+        {"source_org": "Stanford HAI", "source_title": "The 2026 AI Index Report", "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-005",
+      "section": "Understanding the AI Revolution",
+      "question": "Are we in an \"AI moment\" or an \"AI decade\"?",
+      "answer": "Most analysts believe we are entering an AI decade.\n\nSeveral indicators support this view:\n\n- Global corporate AI investment reached $581.7 billion in 2025 — a 130% increase over the previous year, with private investment alone growing 127% to $344.7 billion.\n- Computing costs per unit of capability keep falling while model capability keeps rising.\n- 88% of organizations already use AI in at least one function, and adoption is still broadening.\n- Governments are actively subsidizing AI infrastructure and skills.\n\nCapital commitments of this scale — hundreds of billions per year through the end of the decade — are structural, not momentary.",
+      "key_takeaway": "The scale and duration of committed investment make this a decade-long transformation.",
+      "tags": ["investment", "adoption", "AI decade"],
+      "sources": [
+        {"source_org": "Stanford HAI", "source_title": "The 2026 AI Index Report", "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report", "source_tier": "primary"},
+        {"source_org": "Goldman Sachs", "source_title": "Tracking Trillions: The Assumptions Shaping the Scale of the AI Build-Out", "source_url": "https://www.goldmansachs.com/insights/articles/tracking-trillions-the-assumptions-shaping-scale-of-the-ai-build-out", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-006",
+      "section": "Latest AI Trends",
+      "question": "What is Agentic AI?",
+      "answer": "Agentic AI refers to systems that can plan, reason, use tools, and execute multi-step tasks with limited supervision.\n\nExamples:\n\n- Procurement agents\n- Customer service agents\n- Supply chain agents\n- IT operations agents\n- Financial analysis agents\n\nMost analysts consider agentic AI the defining enterprise trend of 2026. McKinsey reports that 62% of organizations are at least experimenting with AI agents, though only about 23% have begun scaling them — Stanford's 2026 Index put it bluntly: agents are ready, most companies are not.",
+      "key_takeaway": "Agentic AI — software that executes work, not just answers questions — is the defining enterprise trend of 2026.",
+      "tags": ["agentic AI", "agents", "trends"],
+      "sources": [
+        {"source_org": "McKinsey", "source_title": "The state of AI: Agents, innovation, and transformation", "source_url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai", "source_tier": "primary"},
+        {"source_org": "Forbes", "source_title": "Stanford's AI Report Card: Agents Are Ready. Companies Are Not", "source_url": "https://www.forbes.com/sites/stevenwolfepereira/2026/04/14/stanfords-ai-report-card-agents-are-ready-companies-are-not/", "source_tier": "secondary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-007",
+      "section": "Latest AI Trends",
+      "question": "What are AI agents?",
+      "answer": "An AI agent is a digital worker that:\n\n- Understands goals\n- Makes decisions\n- Uses enterprise systems and tools\n- Completes multi-step tasks\n\nThink of it this way: a chatbot is conversation; an AI agent is execution.\n\nBe aware of the gap between claim and reality: surveys in 2026 find that while roughly 79% of enterprises say they have \"adopted\" AI agents, only about 11% actually run them in production. Executives should ask vendors and their own teams which category they are in.",
+      "key_takeaway": "Chatbot = conversation. Agent = execution. Most companies are still piloting, not producing.",
+      "tags": ["agents", "agentic AI", "production gap"],
+      "sources": [
+        {"source_org": "Writer", "source_title": "Enterprise AI adoption in 2026", "source_url": "https://writer.com/blog/enterprise-ai-adoption-2026/", "source_tier": "secondary"},
+        {"source_org": "McKinsey", "source_title": "The State of AI: Global survey", "source_url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-008",
+      "section": "Latest AI Trends",
+      "question": "What is multimodal AI?",
+      "answer": "Multimodal AI understands multiple types of information simultaneously:\n\n- Text\n- Voice\n- Images\n- Video\n- Documents\n- Sensor data\n\nThis allows AI to understand the world more like humans do, and it is what makes AI useful beyond the office: reading engineering drawings, inspecting equipment photos, monitoring safety video, or interpreting sensor streams from plants and fleets. Stanford's AI Index reports rapid capability progress across benchmark categories well beyond language.",
+      "key_takeaway": "Multimodal AI extends value beyond documents to drawings, imagery, video, and sensor data — critical for industrial firms.",
+      "tags": ["multimodal", "trends", "industrial AI"],
+      "sources": [
+        {"source_org": "Stanford HAI", "source_title": "The 2026 AI Index Report", "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-009",
+      "section": "Latest AI Trends",
+      "question": "What are reasoning models?",
+      "answer": "Reasoning models spend additional computation evaluating a problem before producing an answer — the AI equivalent of \"thinking before speaking.\"\n\nBenefits include:\n\n- Better planning\n- More accurate analysis\n- Improved decision making\n- Stronger problem-solving on complex, multi-step tasks\n\nThe capability jump has been dramatic: top models went from single-digit scores on the hardest expert benchmarks in 2025 to over 50% by spring 2026. These capabilities are becoming standard in the enterprise software you already buy, so expect your vendors' roadmaps to assume them.",
+      "key_takeaway": "Reasoning models \"think before answering\" and are rapidly becoming standard in enterprise software.",
+      "tags": ["reasoning models", "capability", "trends"],
+      "sources": [
+        {"source_org": "Stanford HAI", "source_title": "The 2026 AI Index Report", "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-010",
+      "section": "Latest AI Trends",
+      "question": "What is Small AI (small language models)?",
+      "answer": "Small language models (SLMs) are optimized AI models designed for:\n\n- Lower cost\n- Faster performance\n- Better security and data control (they can run on your own infrastructure)\n- Industry-specific and task-specific work\n\nSmaller models have improved dramatically while reducing infrastructure requirements. For traditional industries, SLMs matter because they can run on-premises or at the edge — in a mill, a plant, a vehicle — where connectivity, latency, or data sovereignty rule out cloud-only AI.",
+      "key_takeaway": "Small models bring AI to the edge — cheaper, faster, and deployable inside your own four walls.",
+      "tags": ["small models", "SLM", "edge AI", "cost"],
+      "sources": [
+        {"source_org": "Stanford HAI", "source_title": "The 2026 AI Index Report", "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-011",
+      "section": "Latest AI Trends",
+      "question": "Is open-source AI a threat to the big AI labs?",
+      "answer": "Yes — it is real competitive pressure, and it benefits buyers.\n\nOpen-source and open-weight models continue to improve rapidly and provide:\n\n- Lower costs\n- Greater control over data and deployment\n- Reduced vendor lock-in\n- Easier customization for industry-specific needs\n\nFor many enterprise use cases, open models are now viable alternatives to frontier commercial models. For executives, the practical implication is negotiating leverage and optionality: architect your AI stack so models can be swapped as economics change.",
+      "key_takeaway": "Open models give buyers leverage — architect for model swapability, not vendor lock-in.",
+      "tags": ["open source", "vendor lock-in", "strategy"],
+      "sources": [
+        {"source_org": "Stanford HAI", "source_title": "The 2026 AI Index Report", "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-012",
+      "section": "Latest AI Trends",
+      "question": "Will AI eventually replace SaaS software?",
+      "answer": "Not fully — but the software category is being reshaped.\n\nSaaS platforms are shifting toward:\n\n- Agent-driven interfaces (you state an outcome; the software does the work)\n- Outcome-based and consumption-based pricing\n- Conversational experiences replacing forms and dashboards\n\nBy the end of 2026, roughly 40% of enterprise applications are projected to embed task-specific AI agents. Executives should expect significant disruption to traditional software categories — and should scrutinize long SaaS contracts signed before this shift.",
+      "key_takeaway": "SaaS isn't dying, but it's being rebuilt around agents — be careful with long pre-AI contracts.",
+      "tags": ["SaaS", "software disruption", "agents"],
+      "sources": [
+        {"source_org": "OneReach", "source_title": "Agentic AI Stats 2026: Adoption Rates, ROI, & Market Trends", "source_url": "https://onereach.ai/blog/agentic-ai-adoption-rates-roi-market-trends/", "source_tier": "secondary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-013",
+      "section": "Business Strategy",
+      "question": "What is the biggest mistake companies make with AI?",
+      "answer": "Treating AI as a technology project instead of a business transformation initiative.\n\nMcKinsey's research is unambiguous: workflow redesign has the single biggest effect on an organization's ability to see bottom-line (EBIT) impact from AI. AI high performers — the roughly 6% of organizations attributing more than 5% of EBIT to AI — are 2.8x more likely to have fundamentally redesigned workflows around AI (55% vs 20% of other organizations).\n\nBuying tools and hoping is not a strategy. Redesigning how work flows through the organization is.",
+      "key_takeaway": "AI value comes from redesigning workflows, not from buying tools.",
+      "tags": ["strategy", "workflow redesign", "transformation", "EBIT impact"],
+      "sources": [
+        {"source_org": "McKinsey", "source_title": "The State of AI: How organizations are rewiring to capture value", "source_url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-how-organizations-are-rewiring-to-capture-value", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-014",
+      "section": "Business Strategy",
+      "question": "Where should traditional industries start with AI?",
+      "answer": "Focus on a small number of high-value, well-bounded areas:\n\n1. Knowledge work automation (documents, reports, contracts, compliance paperwork)\n2. Predictive analytics (demand, pricing, maintenance)\n3. Operational efficiency (scheduling, logistics, energy use)\n4. Safety improvements (monitoring, incident analysis)\n5. Customer service (response drafting, triage, self-service)\n\nAvoid trying to transform the entire company at once — but equally avoid \"pilot purgatory\": pick use cases with a clear owner, a measurable baseline, and a path to production from day one.",
+      "key_takeaway": "Start narrow and measurable — with a path to production, not a perpetual pilot.",
+      "tags": ["strategy", "traditional industries", "getting started"],
+      "sources": [
+        {"source_org": "McKinsey", "source_title": "The State of AI: Global survey", "source_url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-015",
+      "section": "Business Strategy",
+      "question": "Which business functions are seeing the fastest AI adoption?",
+      "answer": "Common leaders include:\n\n- Software development\n- Marketing and content\n- Customer service\n- IT operations\n- Finance\n- Human resources\n\nGenerative AI is now used by about 70% of organizations in at least one function. Note the asymmetry: functions rich in text and process (the list above) move fastest, while physical-operations functions move slower but often hold the largest prize in industrial companies.",
+      "key_takeaway": "Text-heavy functions adopt fastest; physical operations adopt slower but often hold the bigger prize.",
+      "tags": ["adoption", "business functions"],
+      "sources": [
+        {"source_org": "Stanford HAI", "source_title": "The 2026 AI Index Report", "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report", "source_tier": "primary"},
+        {"source_org": "McKinsey", "source_title": "The State of AI: Global survey", "source_url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-016",
+      "section": "Business Strategy",
+      "question": "What AI use cases deliver the highest ROI?",
+      "answer": "Frequently cited categories with proven, quantified returns:\n\n- Customer support automation\n- Document processing and knowledge management\n- Predictive maintenance\n- Forecasting and planning\n- Supply chain optimization\n- Code and software development acceleration\n\nThe honest caveat: aggregate success rates are poor — various 2026 studies estimate that 80–95% of AI projects fail to deliver their promised return, usually for organizational rather than technical reasons. The winners share three traits: redesigned workflows, clear ownership, and measured baselines.",
+      "key_takeaway": "Proven ROI categories exist, but most projects still fail for organizational reasons — measure baselines and assign owners.",
+      "tags": ["ROI", "use cases", "failure rate"],
+      "sources": [
+        {"source_org": "McKinsey", "source_title": "The State of AI: Global survey", "source_url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai", "source_tier": "primary"},
+        {"source_org": "Writer", "source_title": "Enterprise AI adoption in 2026", "source_url": "https://writer.com/blog/enterprise-ai-adoption-2026/", "source_tier": "secondary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-017",
+      "section": "Business Strategy",
+      "question": "Should every company have an AI strategy?",
+      "answer": "Absolutely — but increasingly the better question is:\n\n\"Do we have a business strategy that assumes AI?\"\n\nAn AI strategy bolted onto an unchanged business plan produces pilots. A business strategy that assumes AI — in its cost structure, staffing model, product roadmap, and competitive analysis — produces transformation. Boards should ask for the second kind.",
+      "key_takeaway": "Don't write an AI strategy — write a business strategy that assumes AI.",
+      "tags": ["strategy", "board"],
+      "sources": [
+        {"source_org": "McKinsey", "source_title": "The State of AI: How organizations are rewiring to capture value", "source_url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-how-organizations-are-rewiring-to-capture-value", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-018",
+      "section": "Business Strategy",
+      "question": "Why do so many companies get stuck in \"pilot purgatory\"?",
+      "answer": "Because pilots are designed to succeed as demos, not as operations.\n\nThe 2026 numbers illustrate the gap: 62% of organizations are experimenting with AI agents, but only around 23% are scaling anything, and single-function scaling remains under 10%. Meanwhile 79% of organizations report challenges adopting AI, and 54% of C-suite executives say AI adoption is creating internal friction.\n\nCommon causes:\n\n- No named business owner accountable for the outcome\n- No baseline measurement, so value can't be proven\n- Data and integration work deferred \"until after the pilot\"\n- Governance designed for experiments, not production\n\nThe fix is to fund use cases like capital projects: business case, owner, milestones, and a kill/scale decision date.",
+      "key_takeaway": "Fund AI use cases like capital projects — with owners, baselines, and a scale-or-kill date.",
+      "tags": ["pilot purgatory", "scaling", "adoption"],
+      "sources": [
+        {"source_org": "McKinsey", "source_title": "The State of AI: Global survey", "source_url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai", "source_tier": "primary"},
+        {"source_org": "Writer", "source_title": "Enterprise AI adoption in 2026", "source_url": "https://writer.com/blog/enterprise-ai-adoption-2026/", "source_tier": "secondary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-019",
+      "section": "Workforce and Leadership",
+      "question": "Will AI eliminate jobs?",
+      "answer": "Some jobs will be eliminated. Many more will be redesigned.\n\nThe World Economic Forum projects that by 2030, AI and related trends will displace about 92 million jobs while creating about 170 million — a net gain of roughly 78 million, but with painful transitions concentrated in specific roles and regions. About 39% of workers' core skills are expected to change by 2030.\n\nFor most organizations, roles will evolve before they disappear: the near-term question is not \"how many people do we cut\" but \"how does each role change when routine cognitive work is automated.\"",
+      "key_takeaway": "Net job creation is projected globally, but individual roles will be redesigned — plan transitions, not just cuts.",
+      "tags": ["jobs", "workforce", "displacement"],
+      "sources": [
+        {"source_org": "World Economic Forum (via industry analysis)", "source_title": "AI Statistics 2026: Adoption, ROI & Impact", "source_url": "https://unicoconnect.com/blogs/ai-statistics-2026", "source_tier": "secondary"},
+        {"source_org": "McKinsey", "source_title": "The State of AI: Global survey", "source_url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-020",
+      "section": "Workforce and Leadership",
+      "question": "Which positions are most vulnerable to AI?",
+      "answer": "Generally, roles built on repetitive cognitive work:\n\n- Repetitive knowledge work and administrative processing\n- Data gathering and entry\n- Basic reporting and reconciliation\n- Routine content creation\n- First-line information lookup and triage\n\nA useful board-level test: if a role consists mostly of moving information between systems and formats, AI agents can increasingly do it. Roles anchored in physical work, relationships, judgment, and accountability are far more durable.",
+      "key_takeaway": "Roles that move information between systems are most exposed; judgment, relationships, and physical work endure.",
+      "tags": ["jobs", "vulnerable roles", "workforce"],
+      "sources": [
+        {"source_org": "McKinsey", "source_title": "The State of AI: Global survey", "source_url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-021",
+      "section": "Workforce and Leadership",
+      "question": "What roles will become more valuable?",
+      "answer": "Roles that AI amplifies rather than replaces:\n\n- Strategic leadership and change management\n- Relationship and stakeholder management\n- Creativity and product judgment\n- AI governance and oversight\n- Human-AI collaboration design (deciding what to delegate to agents and how to verify it)\n\nThe labor market confirms the shift: AI skills now appear in about 2.5% of US job postings (up ~55% year over year), and mentions of \"agentic AI\" skills rose roughly 280% in a single year.",
+      "key_takeaway": "Judgment, change leadership, and the skill of directing AI agents are the appreciating assets.",
+      "tags": ["skills", "workforce", "leadership"],
+      "sources": [
+        {"source_org": "First Page Sage", "source_title": "Agentic AI Adoption Statistics for 2026", "source_url": "https://firstpagesage.com/reports/agentic-ai-adoption-statistics/", "source_tier": "secondary"},
+        {"source_org": "Stanford HAI", "source_title": "The 2026 AI Index Report", "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-022",
+      "section": "Workforce and Leadership",
+      "question": "What AI skills should executives themselves develop?",
+      "answer": "Priority skills for the executive team:\n\n- AI literacy: what current models can and cannot do, refreshed quarterly because the frontier moves\n- Data literacy: what your data can support and what it can't\n- Working with agents: delegating tasks to AI and verifying results — the 2026 equivalent of learning email\n- AI governance: knowing what questions to ask about risk, bias, and compliance\n- Change leadership and process redesign\n\nRoughly 59% of the global workforce will need some reskilling by 2030 — and that includes the executive floor.",
+      "key_takeaway": "Executive AI literacy is now a governance requirement, not a personal-development option.",
+      "tags": ["skills", "executives", "AI literacy"],
+      "sources": [
+        {"source_org": "Unico Connect (WEF data)", "source_title": "AI Statistics 2026: Adoption, ROI & Impact", "source_url": "https://unicoconnect.com/blogs/ai-statistics-2026", "source_tier": "secondary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-023",
+      "section": "Workforce and Leadership",
+      "question": "Will executives themselves be replaced by AI?",
+      "answer": "Unlikely. Accountability, fiduciary duty, and stakeholder trust cannot be delegated to software.\n\nHowever: executives using AI may replace executives who do not.\n\nAI compresses the time between question and analysis. Leaders who use it interrogate more scenarios, pressure-test more assumptions, and move faster than peers who wait for the next reporting cycle. The competitive gap this opens inside a leadership team — and between competing companies — grows every quarter.",
+      "key_takeaway": "AI won't replace executives — but AI-fluent executives will replace those who aren't.",
+      "tags": ["executives", "leadership", "competition"],
+      "sources": [
+        {"source_org": "McKinsey", "source_title": "The State of AI: Global survey", "source_url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-024",
+      "section": "Governance and Risk",
+      "question": "What are the biggest AI risks for an enterprise?",
+      "answer": "The board-level risk register should include:\n\n- Hallucinations: confident, wrong output reaching customers or regulators\n- Data leakage: sensitive data entering external AI tools\n- Cybersecurity: AI-enhanced phishing, fraud, and deepfakes targeting your firm\n- Bias and discrimination in decisions affecting people\n- Regulatory violations (EU AI Act, sectoral rules, privacy law)\n- Reputation damage from visible AI failures\n- Agent risk (new for 2026): autonomous systems taking real actions in real systems — errors now execute instead of merely misinform\n\nAI-related incidents continue to rise year over year, which is exactly why governance is now a standing board topic.",
+      "key_takeaway": "Add agent risk to the register: when AI acts instead of advises, errors execute.",
+      "tags": ["risk", "governance", "security", "hallucinations"],
+      "sources": [
+        {"source_org": "Stanford HAI", "source_title": "The 2026 AI Index Report", "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-025",
+      "section": "Governance and Risk",
+      "question": "What is AI governance?",
+      "answer": "AI governance is corporate governance applied to AI systems. It includes:\n\n- Policies: what AI may and may not be used for\n- Oversight: who approves, monitors, and can shut down AI systems\n- Risk management: testing, validation, and incident response\n- Compliance controls mapped to regulation\n- Human review mechanisms for consequential decisions\n\nStanford's 2026 Index highlights that deployment has outrun governance in most firms — adoption is at 88% while validation and oversight maturity lag far behind. Closing that gap is cheaper before an incident than after.",
+      "key_takeaway": "Adoption has outrun oversight in most firms — close the governance gap before an incident closes it for you.",
+      "tags": ["governance", "risk", "oversight"],
+      "sources": [
+        {"source_org": "Stanford HAI", "source_title": "The 2026 AI Index Report", "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report", "source_tier": "primary"},
+        {"source_org": "SAPinsider", "source_title": "Stanford 2026 AI Index: AI Adoption, Governance, and Risk", "source_url": "https://sapinsider.org/blogs/stanford-ai-index-2026-enterprise-ai-readiness-governance-risk/", "source_tier": "secondary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-026",
+      "section": "Governance and Risk",
+      "question": "Should we create an AI ethics or oversight committee?",
+      "answer": "Most medium and large enterprises should establish some formal oversight structure. The exact form matters less than clear accountability.\n\nWorkable models include:\n\n- A standing AI committee of the board (parallel to audit or risk)\n- An executive AI council chaired by a named accountable officer\n- Extending the existing risk committee's charter to cover AI explicitly\n\nWhat matters is that someone with authority can answer: what AI is running, what decisions it touches, what could go wrong, and who turns it off.",
+      "key_takeaway": "The structure matters less than having one named owner who can account for — and stop — every AI system.",
+      "tags": ["governance", "board", "ethics"],
+      "sources": [
+        {"source_org": "McKinsey", "source_title": "State of AI trust in 2026: Shifting to the agentic era", "source_url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/tech-forward/state-of-ai-trust-in-2026-shifting-to-the-agentic-era", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-027",
+      "section": "Governance and Risk",
+      "question": "What is the EU AI Act and why should executives care in 2026?",
+      "answer": "The EU AI Act is the world's first comprehensive AI regulatory framework, and 2026 brought important changes.\n\nIn June 2026, the European Parliament approved the \"Digital Omnibus on AI,\" which delayed compliance deadlines for standalone high-risk AI systems (Annex III) from August 2, 2026 to December 2, 2027. However, core transparency rules under Article 50 — disclosing AI chatbots and labeling synthetic media to users — remain on the original schedule.\n\nWhy non-EU companies should care: the Act applies to any organization whose AI systems are used in the EU or produce outputs affecting EU residents. A North American company using AI in loan approvals, hiring, or customer service that touches European customers is in scope, even if its servers are elsewhere.\n\nThe delay is breathing room, not a reprieve — use it to inventory AI systems and classify them by risk now.",
+      "key_takeaway": "The 2026 Omnibus delayed high-risk deadlines to Dec 2027, but transparency rules still bind — and non-EU firms are in scope.",
+      "tags": ["EU AI Act", "regulation", "compliance"],
+      "sources": [
+        {"source_org": "Holland & Knight", "source_title": "U.S. Companies Face EU AI Act's Possible August 2026 Compliance Deadline", "source_url": "https://www.hklaw.com/en/insights/publications/2026/04/us-companies-face-eu-ai-acts-possible-august-2026-compliance-deadline", "source_tier": "primary"},
+        {"source_org": "Lumenova", "source_title": "EU AI Act News 2026: New Deadlines & Business Impact", "source_url": "https://www.lumenova.ai/blog/eu-ai-act-delays-july-2026/", "source_tier": "secondary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-028",
+      "section": "Future Outlook",
+      "question": "What is Artificial General Intelligence (AGI)?",
+      "answer": "AGI refers to AI that can perform most intellectual tasks at or above human levels, across domains, without task-specific training.\n\nNobody knows precisely when — or whether — it will arrive; credible expert forecasts range from a few years to decades. What is certain is that capability keeps compounding: benchmark performance that took humans decades of expertise is now being matched within months of a benchmark's release.\n\nFor planning purposes, boards don't need an AGI date. They need a strategy that stays sound whether progress continues at today's pace or accelerates.",
+      "key_takeaway": "You don't need to predict AGI — you need a strategy robust to continued rapid capability growth.",
+      "tags": ["AGI", "future", "capability"],
+      "sources": [
+        {"source_org": "Stanford HAI", "source_title": "The 2026 AI Index Report", "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-029",
+      "section": "Future Outlook",
+      "question": "Will AI become smarter than humans?",
+      "answer": "In some domains, it already exceeds human capabilities — including certain kinds of analysis, pattern recognition, coding tasks, and increasingly, expert-level reasoning benchmarks.\n\nThe unresolved question is whether AI will surpass humans broadly across all cognitive tasks, including open-ended judgment, physical-world common sense, and long-horizon planning.\n\nThe executive-relevant reframe: the question is not \"smarter than humans?\" but \"which of our value-creating activities can it do better, cheaper, or faster this year?\" That list grows every quarter, and competitors are consulting the same list.",
+      "key_takeaway": "Domain by domain, AI already exceeds humans — track which of your activities join that list each quarter.",
+      "tags": ["future", "capability", "AGI"],
+      "sources": [
+        {"source_org": "Stanford HAI", "source_title": "The 2026 AI Index Report", "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-030",
+      "section": "Future Outlook",
+      "question": "What should boards be discussing today?",
+      "answer": "Every board agenda should now cover:\n\n- AI opportunities: where AI changes our cost curve or revenue model\n- AI risks: the register in this FAQ's governance section, reviewed quarterly\n- Workforce impacts: reskilling plans, not just headcount plans\n- Competitive implications: who in our industry is scaling (not piloting) AI\n- Governance: who is accountable, and what oversight exists\n- Capital allocation: build vs. buy vs. partner, and the discipline to kill failed pilots\n\nBoards that treat AI as a once-a-year strategy-day topic are governing at last year's clock speed.",
+      "key_takeaway": "AI belongs on every board agenda — opportunities, risks, workforce, competition, governance, and capital.",
+      "tags": ["board", "governance", "strategy"],
+      "sources": [
+        {"source_org": "McKinsey", "source_title": "The State of AI: How organizations are rewiring to capture value", "source_url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-how-organizations-are-rewiring-to-capture-value", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-031",
+      "section": "Future Outlook",
+      "question": "What is the one question every executive should ask?",
+      "answer": "\"If a new competitor were built from scratch today using AI-first principles, how would they disrupt our business?\"\n\nThat question reveals more strategic truth than most consulting engagements. An AI-first competitor would carry no legacy systems, price against your cost structure using a fraction of your headcount, and automate the workflows you consider core competencies.\n\nIf the answer is uncomfortable, the follow-up question is the real agenda: \"What stops us from building that company ourselves — before someone else does?\"",
+      "key_takeaway": "Ask what an AI-first competitor would do to you — then ask why you aren't doing it first.",
+      "tags": ["strategy", "disruption", "board"],
+      "sources": [
+        {"source_org": "McKinsey", "source_title": "The State of AI: Global survey", "source_url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    },
+    {
+      "id": "faq-032",
+      "section": "Future Outlook",
+      "question": "What are the top AI questions boards are asking in 2026?",
+      "answer": "The questions recurring in boardrooms this year:\n\n1. Are we moving fast enough with AI relative to competitors?\n2. What is our measured AI ROI — and are we in the 39% seeing EBIT impact?\n3. Are we stuck in pilot projects, and who decides scale-or-kill?\n4. Where can AI agents automate entire workflows, not just tasks?\n5. Which jobs change in the next three years, and what is the reskilling plan?\n6. What AI governance framework do we have, and who owns it?\n7. Are we exposed to the EU AI Act or similar regulation?\n8. If the AI infrastructure buildout corrects, how are we exposed — as investors, customers, or suppliers?\n9. Are we vulnerable to AI-native startups in our niche?\n10. What does our company look like if AI succeeds beyond expectations?\n\nAn executive team that can answer all ten crisply is ahead of the vast majority of peers.",
+      "key_takeaway": "Ten questions define board AI readiness in 2026 — crisp answers to all ten put you ahead of most peers.",
+      "tags": ["board", "strategy", "governance", "checklist"],
+      "sources": [
+        {"source_org": "McKinsey", "source_title": "The State of AI: Global survey", "source_url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai", "source_tier": "primary"},
+        {"source_org": "Stanford HAI", "source_title": "The 2026 AI Index Report", "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report", "source_tier": "primary"}
+      ],
+      "date_added": "2026-07-27"
+    }
+  ]
+}
